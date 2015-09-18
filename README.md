@@ -9,7 +9,7 @@ Install
 Run the following command in the root directory of your Node-RED install, usually
 this is ~/.node-red .
 
-    npm install ttb-owntracks
+    npm install ttb-node-owntracks
 
 Usage
 -----
