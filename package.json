@@ -1,0 +1,16 @@
+{
+  "name": "ttb-node-owntracks",
+  "version": "0.0.1",
+  "description": "A Node-RED node to use Owntracks GPS position",
+  "keywords": [
+    "node-red",
+    "owntracks"
+  ],
+  "author": "http://www.digitalairways.com/",
+  "license": "http://www.wtfpl.net",
+  "node-red": {
+    "nodes": {
+      "owntracks": "owntracks.js"
+    }
+  }
+}
