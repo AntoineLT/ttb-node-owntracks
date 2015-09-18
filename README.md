@@ -1,4 +1,4 @@
-ttb-owntracks
+An Owntracks node for Node RED
 =============
 
 A <a href="http://nodered.org" target="_new">Node-RED</a> node to use Owntracks GPS position.
